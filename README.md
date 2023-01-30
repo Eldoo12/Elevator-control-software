@@ -28,5 +28,5 @@ Korisničke opcije su:
 •	exit
 
 Opcija za aktivaciju nosila ili lifta treba korisniku prikazati unos gdje će ukucati naziv lifta te aktivirati isti za svoj profil.
-Opcija za pozivanje i korištenje lifta predstavlja korištenje nosila kreiranog od admin strane, i svako pozivanje računa +1 na broj korištenja. Potrebno je grafički prikaz korištenje nosila pa ako imamo za primjer 7 spratova nakon što pozovemo nosilo moramo prikazati sljedeće:
+Opcija za pozivanje i korištenje lifta predstavlja korištenje nosila kreiranog od admin strane, i svako pozivanje računa +1 na broj korištenja. Potrebno je grafički prikaz korištenje nosila 
 
