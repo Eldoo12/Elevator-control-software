@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1675087190 source:c:\users\eldoa\onedrive\desktop\projekat\projekat\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funkcije.h"
+	"adminpanel.h"
+
+1674138662 c:\users\eldoa\onedrive\desktop\projekat\projekat\funkcije.h
+
+1675087527 c:\users\eldoa\onedrive\desktop\projekat\projekat\adminpanel.h
+	<time.h>
+	<Windows.h>
+
