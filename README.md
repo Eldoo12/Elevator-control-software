@@ -30,14 +30,3 @@ Korisničke opcije su:
 Opcija za aktivaciju nosila ili lifta treba korisniku prikazati unos gdje će ukucati naziv lifta te aktivirati isti za svoj profil.
 Opcija za pozivanje i korištenje lifta predstavlja korištenje nosila kreiranog od admin strane, i svako pozivanje računa +1 na broj korištenja. Potrebno je grafički prikaz korištenje nosila pa ako imamo za primjer 7 spratova nakon što pozovemo nosilo moramo prikazati sljedeće:
 
-Grafički prikaz:
-|||
-|
-|
-|
-|
-|
-|
-Tri crtice ili znak po vašoj želji je tačka gdje se trenutno lift nalazi, pozivom istog treba da ga dovedemo na nultu tačku, između pomjeranja crtica trebamo imati razmak od dvije do tri sekunde gdje ćete koristiti “delay” tako da možemo ispratiti pravilno kretanje. Nakon što lift ili nosilo dođe do nulte tačke korisnik unosi željeni sprat gdje ponovo imamo +1 na kretanje, i ponavljamo grafički prikaz do zadatog broja odnosno sprata.
-
-
